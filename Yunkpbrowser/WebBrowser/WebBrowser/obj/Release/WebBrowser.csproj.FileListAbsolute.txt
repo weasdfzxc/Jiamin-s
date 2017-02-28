@@ -1,0 +1,11 @@
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\obj\Release\WebBrowser.Activator.resources
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\obj\Release\WebBrowser.Properties.Resources.resources
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\obj\Release\WebBrowser.csproj.GenerateResource.Cache
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe.config
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\WebBrowser.exe
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\WebBrowser.pdb
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\Register.dll
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\BitCodeLib.dll
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\bin\Release\zxing.dll
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\obj\Release\WebBrowser.exe
+F:\小型项目\科普平台专用浏览器\WebBrowser\WebBrowser\obj\Release\WebBrowser.pdb

@@ -1,0 +1,73 @@
+/*--description--*/
+
+p.in-para{
+    color: #B3B3B3;
+    font-size: 0.9em;
+    line-height: 2em;
+    margin: 1em 0 ;
+    border-bottom: 1px solid #f0f0f0;
+    border-top: 3px double #f0f0f0;
+    padding:1em 0;
+}
+
+h4.quick {
+    color: #000;
+    font-size:1.2em;
+    text-transform: uppercase;
+    font-family: 'Ubuntu-Regular';
+    margin-top: 1em;
+}
+p.quick_desc {
+    color:#B3B3B3;
+    font-size:0.9em;
+    line-height: 2em;
+    margin: 1em 0 2em;
+}
+
+/*--tab--*/
+.tab-head {
+    padding: 3em 0 0;
+}
+.tabs li a {
+    padding: 1em;
+    font-size: 0.9em;
+    color: #B3B3B3;
+    border-bottom: 1px solid #EDEDED;
+}
+.tabs  li a:hover,.tabs  li.active a{
+    background:#F67777 !important;
+    color:#fff;
+}
+.tab-content {
+    padding-left: 0px;
+}
+.facts p {
+    color: #B3B3B3;
+    font-size: 0.9em;
+    line-height: 2em;
+    padding: 0 0 1em;
+}
+.facts ul li {
+    list-style: none;
+    color: #B3B3B3;
+    font-size: 0.9em;
+    padding: 0.3em 0;
+}
+.facts ul li span{
+    padding-right: 0.5em;
+}
+nav.nav-sidebar {
+    float: left;
+    width: 30%;
+    border-top: 1px solid #EDEDED;
+    border-left: 1px solid #EDEDED;
+}
+.one{
+    float:right;
+    width: 70%;
+    border: 1px solid #EDEDED;
+    padding:1em;
+}
+.product-at{
+    padding-top:0;
+}

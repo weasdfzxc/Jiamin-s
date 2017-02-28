@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">科普云游</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_url">http://www.yunkp.com:12450/GPS_SSH/</string>
+    <string name="key">pzzofkUygV4wghqyA42KSOtQ</string>
+    <string name="title_activity_route">Route</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchtype">搜索策略</string>
+    <string name="traffic">交通方式</string>
+</resources>

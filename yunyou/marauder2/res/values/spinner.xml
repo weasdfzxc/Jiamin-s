@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="searchtype">  
+        <item>时间优先</item>  
+        <item>距离最短</item>  
+        <item>费用最少</item>  
+    </string-array>  
+    <string-array name="traffic">  
+        <item>驾车</item>  
+        <item>步行</item>  
+        <item>公交</item>  
+    </string-array>  
+</resources>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afe26382746155049b588124e2bd14ab
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Yolan
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 

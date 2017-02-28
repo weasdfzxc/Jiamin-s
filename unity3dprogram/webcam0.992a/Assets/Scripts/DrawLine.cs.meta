@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2e8071e6091ae3418a76f87f14452d0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lineMaterial: {instanceID: 0}
+  - capTex: {instanceID: 0}
+  - capMaterial: {instanceID: 0}
+  - plane: {instanceID: 0}
+  - Mygui: {fileID: 11400000, guid: 1c3550eff4f76e142a7cca7dbd5cfe9e, type: 2}
+  executionOrder: 500
+  icon: {instanceID: 0}
+  userData: 

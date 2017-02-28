@@ -1,0 +1,78 @@
+/* Font */
+@font-face {
+    font-family: Cezanne;
+    font-style: normal;
+    src: url(../font/cezanne.ttf);
+}
+
+@font-face {
+    font-family: Chibrush;
+    font-style: normal;
+    src: url(../font/Chibrush.ttf);
+}
+
+@font-face {
+    font-family: Blemished;
+    font-style: normal;
+    src: url(../font/blemished.ttf);
+}
+
+@font-face {
+    font-family: Main;
+    font-style: normal;
+    src: url(../font/main.ttf);
+}
+
+@font-face {
+    font-family: Oxygen-Bold;
+    font-style: normal;
+    src:url(../font/Oxygen-Bold.ttf);
+}
+@font-face {
+    font-family: Ubuntu-Regular;
+    font-style: normal;
+    src:url(../font/Ubuntu-Regular.ttf);
+}
+@font-face {
+    font-family: Ubuntu-Bold;
+    font-style: normal;
+    src:url(../font/Ubuntu-Bold.ttf);
+}
+@font-face{
+    font-family:Oxygen-Regular;
+    font-style: normal;
+    src:url(../font/Oxygen-Regular.ttf);
+}
+
+.blemished{
+    font-family: Blemished;
+}
+
+.chibrush{
+    font-family: Chibrush;
+}
+
+.cezanne{
+    font-family: Cezanne;
+}
+
+.mainfont{
+    font-family: Main;
+}
+
+.oxygen-bold{
+    font-family: Oxygen-Bold;
+}
+
+.oxygen-regular{
+    font-family: Oxygen-Regular;
+}
+
+.ubuntu-regular{
+    font-family: Ubuntu-Regular;
+}
+
+.ubuntu-bold{
+    font-family: Ubuntu-Bold;
+}
+

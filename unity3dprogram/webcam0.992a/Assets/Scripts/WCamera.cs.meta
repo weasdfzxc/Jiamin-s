@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6cf96796884501e418ee0874ade3862e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mat: {instanceID: 0}
+  - renderTarget: {instanceID: 0}
+  - numRender: {instanceID: 0}
+  - Mygui: {fileID: 11400000, guid: 1c3550eff4f76e142a7cca7dbd5cfe9e, type: 2}
+  - webCamera: {instanceID: 0}
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 

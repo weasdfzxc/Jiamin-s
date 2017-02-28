@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC     
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"    
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<constant name="struts.enable.DynamicMethodInvocation" value="false"></constant>
+	<constant name="struts.devMode" value="true"></constant>
+	<constant name="struts.i18n.encoding" value="UTF-8"></constant>
+	<constant name="struts.objectFactory" value="spring"></constant>
+	<package name="default" namespace="/" extends="struts-default">
+		<action name="login" class="org.ra.action.LoginAction">
+			<result name="success" type="chain">release</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="release" class="org.ra.action.ReleaseAction">
+			<result name="success">/index.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+	</package>
+	<package name="jsonManager" namespace="/" extends="json-default">
+		<action name="login-json" class="org.ra.action.LoginAction">
+			<result name="success" type="json"></result>
+			<result name="error" type="json"></result>
+		</action>
+		<action name="regist-json" class="org.ra.action.RegistAction">
+			<result name="success" type="json"></result>
+			<result name="error" type="json"></result>
+		</action>
+		<action name="release-json" class="org.ra.action.ReleaseAction">
+			<result name="success" type="json"></result>
+		</action>
+	</package>
+
+</struts>
